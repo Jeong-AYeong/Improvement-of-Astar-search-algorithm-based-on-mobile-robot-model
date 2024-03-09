@@ -16,7 +16,7 @@
 ![기존알고리즘](https://github.com/Jeong-AYeong/Improvement-of-Astar-search-algorithm-based-on-mobile-robot-model/assets/87751593/a4901254-193e-417d-b2df-e57ec9d18cfa)
 
 
-## 🎥 Demo 영상
+## 🎥 개선된 A* algorithm Demo
 ![개선된알고리즘](https://github.com/Jeong-AYeong/Improvement-of-Astar-search-algorithm-based-on-mobile-robot-model/assets/87751593/0257b196-7c6c-48c1-a636-8ab8b0cd2a46)
 * 이동로봇의 효율을 저해하는 90도 회전이 줄어들어 더욱 효율적인 경로가 생성
 
